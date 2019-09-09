@@ -116,4 +116,10 @@
         android:textSize="20sp"
         android:textColor="#B31B10"
         />
+
+    <Button
+        android:id="@+id/btnThoat"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Thoát" />
 </LinearLayout>
